@@ -1,0 +1,17 @@
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\MakingOrder.Repositories.deps.json
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\MakingOrder.Repositories.dll
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\MakingOrder.Repositories.pdb
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.AssemblyInfoInputs.cache
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.AssemblyInfo.cs
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.csproj.CoreCompileInputs.cache
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.dll
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\refint\MakingOrder.Repositories.dll
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.pdb
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\ref\MakingOrder.Repositories.dll
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\DAL.dll
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\DAL.pdb
+E:\MakingOrder\MakingOrder.Repositories\bin\Debug\net8.0\MakingOrder.Models.pdb
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOrder.Repositories.csproj.AssemblyReference.cache
+E:\MakingOrder\MakingOrder.Repositories\obj\Debug\net8.0\MakingOr.DE566FD7.Up2Date

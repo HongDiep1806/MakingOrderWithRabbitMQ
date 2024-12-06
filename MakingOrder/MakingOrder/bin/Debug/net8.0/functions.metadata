@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Function1",
+    "scriptFile": "MakingOrder.Functions.API.dll",
+    "entryPoint": "MakingOrder.Functions.API.Function1.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "myTimer",
+        "direction": "In",
+        "type": "timerTrigger",
+        "schedule": "*/5 * * * * *",
+        "properties": {}
+      }
+    ]
+  }
+]

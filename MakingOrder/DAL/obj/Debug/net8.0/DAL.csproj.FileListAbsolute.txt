@@ -1,0 +1,15 @@
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\MakingOrder\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\MakingOrder\DAL\bin\Debug\net8.0\DAL.dll
+E:\MakingOrder\DAL\bin\Debug\net8.0\DAL.pdb
+E:\MakingOrder\DAL\bin\Debug\net8.0\MakingOrder.Models.dll
+E:\MakingOrder\DAL\bin\Debug\net8.0\MakingOrder.Models.pdb
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.dll
+E:\MakingOrder\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\MakingOrder\DAL\obj\Debug\net8.0\DAL.pdb
+E:\MakingOrder\DAL\obj\Debug\net8.0\ref\DAL.dll

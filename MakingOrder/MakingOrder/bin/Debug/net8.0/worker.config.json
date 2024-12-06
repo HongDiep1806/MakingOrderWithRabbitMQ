@@ -1,0 +1,10 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "MakingOrder.Functions.API.dll",
+    "workerIndexing": "true",
+    "canUsePlaceholder": true
+  }
+}

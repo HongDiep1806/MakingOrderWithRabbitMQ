@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MakingOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|e:\\makingorder\\makingorder.functions.api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|solutionrelative:makingorder.functions.api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|e:\\makingorder\\makingorder.functions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|solutionrelative:makingorder.functions.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186C54E2-0561-4D05-B055-FFCD7EA65B5B}|DAL\\DAL.csproj|e:\\makingorder\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186C54E2-0561-4D05-B055-FFCD7EA65B5B}|DAL\\DAL.csproj|solutionrelative:dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|e:\\makingorder\\makingorder.functions.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B8E4DAC-15AB-4897-964A-F80F173502C0}|MakingOrder.Functions.API\\MakingOrder.Functions.API.csproj|solutionrelative:makingorder.functions.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\emailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\emailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\controllers\\placeordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\controllers\\placeordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\icustomerrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\icustomerrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|e:\\makingorder\\makingorder.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D156F3D-D85C-4EFC-A284-CF3F643A1380}|MakingOrder.Repositories\\MakingOrder.Repositories.csproj|solutionrelative:makingorder.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\createorderrequestcheckauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\createorderrequestcheckauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\createorderrequestauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\createorderrequestauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|e:\\makingorder\\makingorder.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58BC5B6-992A-4D70-8A5E-520594C7B051}|MakingOrder.Services\\MakingOrder.Services.csproj|solutionrelative:makingorder.services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\orderproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\orderproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|e:\\makingorder\\makingorder.models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8056B5-93CF-444C-87CC-1EA3D6D4D12A}|MakingOrder.Models\\MakingOrder.Models.csproj|solutionrelative:makingorder.models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\customerloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\customerloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|e:\\makingorder\\makingorder\\migrations\\20241124030605_updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2BCA2C-B225-4B4E-B012-81A357DDB693}|MakingOrder\\MakingOrder.csproj|solutionrelative:makingorder\\migrations\\20241124030605_updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|e:\\makingorder\\makingorder.webmodel\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB0C7C-93B4-4B25-9199-893F2F3E2C3C}|MakingOrder.WebModel\\MakingOrder.WebModel.csproj|solutionrelative:makingorder.webmodel\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\IBaseRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:09:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Functions.API\\Program.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Functions.API\\Program.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Functions.API\\Program.cs",
+              "RelativeToolTip": "MakingOrder.Functions.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:56:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Functions.API\\Function1.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Functions.API\\Function1.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Functions.API\\Function1.cs*",
+              "RelativeToolTip": "MakingOrder.Functions.API\\Function1.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:09:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\BaseRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:08:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:41:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\Program.cs",
+              "RelativeDocumentMoniker": "MakingOrder\\Program.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\Program.cs",
+              "RelativeToolTip": "MakingOrder\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:29:14.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\OrderService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\OrderService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\OrderService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:45:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\IOrderService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\IOrderService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\IOrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:43:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\DAL\\DataContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DataContext.cs",
+              "ToolTip": "E:\\MakingOrder\\DAL\\DataContext.cs",
+              "RelativeToolTip": "DAL\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:51:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Functions.API\\local.settings.json",
+              "RelativeDocumentMoniker": "MakingOrder.Functions.API\\local.settings.json",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Functions.API\\local.settings.json",
+              "RelativeToolTip": "MakingOrder.Functions.API\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T03:06:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:06:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlaceOrderController.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\Controllers\\PlaceOrderController.cs",
+              "RelativeDocumentMoniker": "MakingOrder\\Controllers\\PlaceOrderController.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\Controllers\\PlaceOrderController.cs",
+              "RelativeToolTip": "MakingOrder\\Controllers\\PlaceOrderController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:04:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\appsettings.json",
+              "RelativeDocumentMoniker": "MakingOrder\\appsettings.json",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\appsettings.json",
+              "RelativeToolTip": "MakingOrder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T03:51:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MakingOrder\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MakingOrder\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:38:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailInfo.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\EmailInfo.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\EmailInfo.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\EmailInfo.cs",
+              "RelativeToolTip": "MakingOrder.Models\\EmailInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:22:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\CustomerService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\CustomerService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\CustomerService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:09:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\IOrderRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:40:53.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepsitory.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\ICustomerRepsitory.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\ICustomerRepsitory.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\ICustomerRepsitory.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\ICustomerRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:05:25.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\ICustomerService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\ICustomerService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:26:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:05:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MakingOrder.Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:06:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\ProductService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\ProductService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:09:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateOrderRequestAuth.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateOrderRequestAuth.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CreateOrderRequestAuth.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateOrderRequestAuth.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CreateOrderRequestAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:44:23.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateOrderRequestCheckAuth.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateOrderRequestCheckAuth.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CreateOrderRequestCheckAuth.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateOrderRequestCheckAuth.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CreateOrderRequestCheckAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:31:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Services\\IProductService.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Services\\IProductService.cs",
+              "RelativeToolTip": "MakingOrder.Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:10:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderProductRequest.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\OrderProductRequest.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\OrderProductRequest.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\OrderProductRequest.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\OrderProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:56:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\Customer.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\Customer.cs",
+              "RelativeToolTip": "MakingOrder.Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:11:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\Order.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\Order.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\Order.cs",
+              "RelativeToolTip": "MakingOrder.Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:42:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\OrderProduct.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\OrderProduct.cs",
+              "RelativeToolTip": "MakingOrder.Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:15:42.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\Product.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\Product.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\Product.cs",
+              "RelativeToolTip": "MakingOrder.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:47:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.Models\\UserType.cs",
+              "RelativeDocumentMoniker": "MakingOrder.Models\\UserType.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.Models\\UserType.cs",
+              "RelativeToolTip": "MakingOrder.Models\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:56:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\OrderResponse.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\OrderResponse.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:59:59.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MakingOrder\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MakingOrder\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:53:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerLoginRequest.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CustomerLoginRequest.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CustomerLoginRequest.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CustomerLoginRequest.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CustomerLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:27:46.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CreateCustomerRequest.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CreateCustomerRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:10:58.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CustomerResponse.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CustomerResponse.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CustomerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:16:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241124030605_updateCustomer.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder\\Migrations\\20241124030605_updateCustomer.cs",
+              "RelativeDocumentMoniker": "MakingOrder\\Migrations\\20241124030605_updateCustomer.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder\\Migrations\\20241124030605_updateCustomer.cs",
+              "RelativeToolTip": "MakingOrder\\Migrations\\20241124030605_updateCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:06:06.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\ProductResponse.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\ProductResponse.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:15:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "MakingOrder.WebModel\\CreateProductRequest.cs",
+              "ToolTip": "E:\\MakingOrder\\MakingOrder.WebModel\\CreateProductRequest.cs",
+              "RelativeToolTip": "MakingOrder.WebModel\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:11:09.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

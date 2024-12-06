@@ -1,0 +1,15 @@
+E:\MakingOrder\MakingOrder.WebModel\bin\Debug\net8.0\MakingOrder.WebModel.deps.json
+E:\MakingOrder\MakingOrder.WebModel\bin\Debug\net8.0\MakingOrder.WebModel.dll
+E:\MakingOrder\MakingOrder.WebModel\bin\Debug\net8.0\MakingOrder.WebModel.pdb
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.AssemblyInfoInputs.cache
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.AssemblyInfo.cs
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.csproj.CoreCompileInputs.cache
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.dll
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\refint\MakingOrder.WebModel.dll
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.pdb
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\ref\MakingOrder.WebModel.dll
+E:\MakingOrder\MakingOrder.WebModel\bin\Debug\net8.0\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.WebModel\bin\Debug\net8.0\MakingOrder.Models.pdb
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOrder.WebModel.csproj.AssemblyReference.cache
+E:\MakingOrder\MakingOrder.WebModel\obj\Debug\net8.0\MakingOr.D1AF85F1.Up2Date

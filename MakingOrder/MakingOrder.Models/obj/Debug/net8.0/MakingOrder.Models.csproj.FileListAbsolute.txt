@@ -1,0 +1,12 @@
+E:\MakingOrder\MakingOrder.Models\bin\Debug\net8.0\MakingOrder.Models.deps.json
+E:\MakingOrder\MakingOrder.Models\bin\Debug\net8.0\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.Models\bin\Debug\net8.0\MakingOrder.Models.pdb
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.AssemblyInfoInputs.cache
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.AssemblyInfo.cs
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.csproj.CoreCompileInputs.cache
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\refint\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.pdb
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\ref\MakingOrder.Models.dll
+E:\MakingOrder\MakingOrder.Models\obj\Debug\net8.0\MakingOrder.Models.csproj.AssemblyReference.cache
